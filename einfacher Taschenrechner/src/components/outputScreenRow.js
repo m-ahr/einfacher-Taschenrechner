@@ -8,8 +8,4 @@ const OutputScreenRow = () => {
     )
 }
 
-{/* <input type="text" id="field1" /> +
-<input type="text" id="field2" />
-<input type="submit" value="=" /> */}
-
 export default OutputScreenRow;
