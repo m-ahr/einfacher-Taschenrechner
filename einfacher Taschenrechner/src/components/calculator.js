@@ -4,7 +4,6 @@ import OutputScreen from './outputScreen';
 import Button from './button';
 
 
-// React-Teil
 class Calculator extends React.Component {
 
     constructor(props) {
